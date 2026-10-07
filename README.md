@@ -10,9 +10,9 @@
 
 Android 8.0 or newer. After that, the app tells you itself when a new version is out.
 
-## Premium
+## Free for everyone
 
-Barcode scanning (and more coming) unlocks with a personal code. Ask Samir for yours, then paste it in **Me → Unlock Premium**.
+Every feature is included: barcode scanning, meal planner, weekly reports, fasting timer, reminders and more. No account, no ads.
 
 ## Privacy
 
